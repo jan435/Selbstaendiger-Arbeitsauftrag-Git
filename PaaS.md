@@ -4,4 +4,4 @@ PaaS liefert eine vollständige Entwicklungsplattform inklusive Hardware, Betrie
 
 ![Infografik](https://github.com/user-attachments/assets/005076a1-5785-4249-8877-5b4ff2c9dfcc)
 
-[Quelle](https://63sats.com/blog/platform-as-a-service-in-cloud-computing/)
+[Quelle:63Sats](https://63sats.com/blog/platform-as-a-service-in-cloud-computing/)
