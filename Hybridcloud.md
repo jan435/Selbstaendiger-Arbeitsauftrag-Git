@@ -5,3 +5,6 @@ Die Hybrid Cloud kombiniert Public- und Privatecloud Services und ermöglicht Da
 ![Bild Hybridcloud](https://www.ipxo.com/app/uploads/2022/10/private-and-public-cloud-as-hybrid-cloud.jpg)
 
 [Quelle: IPXO](https://www.ipxo.com/blog/what-is-enterprise-hybrid-cloud/)
+
+
+Lokale Änderung Test
