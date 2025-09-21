@@ -1,7 +1,7 @@
 # Hybridcloud
 
 ## Erklärung
-Die Hybrid Cloud kombiniert Public- und Privatecloud Services und ermöglicht Datenaustausch und Integration zwischen beiden. Unternehmen können sensible Daten in der Private Cloud behalten und gleichzeitig die Flexibilität und Skalierung der Public Cloud für weniger kritische Anwendungen nutzen. Dieses Modell bietet hohe Flexibilität und kann Kosten optimieren.
+Die __Hybrid Cloud__ kombiniert _Public- und Privatecloud Services_ und ermöglicht Datenaustausch und Integration zwischen beiden. Unternehmen können sensible Daten in der Private Cloud behalten und gleichzeitig die **_Flexibilität und Skalierung_** der Public Cloud für weniger kritische Anwendungen nutzen. Dieses Modell bietet hohe Flexibilität und kann Kosten optimieren.
 
 ### Grafik
 ![Bild Hybridcloud](https://www.ipxo.com/app/uploads/2022/10/private-and-public-cloud-as-hybrid-cloud.jpg)
