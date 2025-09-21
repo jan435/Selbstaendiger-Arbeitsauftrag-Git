@@ -8,5 +8,6 @@ Die __Hybrid Cloud__ kombiniert _Public- und Privatecloud Services_ und ermögli
 
 [Quelle: IPXO](https://www.ipxo.com/blog/what-is-enterprise-hybrid-cloud/)
 
+> zitierter Text
 
 Lokale Änderung Test
